@@ -9,10 +9,7 @@
 🔭  Curious about biological foundation models
 
 ## 📫 Connect with Me  
-🌍  [Personal portfolio website](https://martina-occhetta.github.io) 
-
-🔗  [LinkedIn](https://www.linkedin.com/in/martina-occhetta) 
-
+🔗  [LinkedIn](https://www.linkedin.com/in/martina-occhetta) |
 📧  m.occhetta@qmul.ac.uk  
 
 <!--
