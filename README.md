@@ -9,11 +9,7 @@
 🔭  Curious about biological foundation models
 
 ## 📫 Connect with Me  
-🌍 [Personal portfolio website](https://martina-occhetta.github.io) | 
-
-🔗 [LinkedIn](https://www.linkedin.com/in/martina-occhetta) | 
-
-📧 m.occhetta@qmul.ac.uk  
+🌍  [personal portfolio website](https://martina-occhetta.github.io) | 🔗  [LinkedIn](https://www.linkedin.com/in/martina-occhetta) | 📧  m.occhetta@qmul.ac.uk  
 
 <!--
 **martina-occhetta/martina-occhetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
