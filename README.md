@@ -1,9 +1,9 @@
-# Hi, I'm Martina Occhetta 👋
+### Hi, I'm Martina 🌟 
 
-🔬 **PhD Researcher in AI for Drug Discovery** @ Queen Mary University of London & Recursion  
-💡 Specializing in **graph neural networks, network biology, and multi-omic data integration**  
-📖 Passionate about **target identification, perturbation response prediction**  
-🔭 Curious about **biological foundation models**
+🔬  **PhD Researcher in AI for Drug Discovery** @ Queen Mary University of London & Recursion  
+💡  Specializing in graph neural networks, network biology, and multi-omic data integration 
+📖  Passionate about target identification, perturbation response prediction
+🔭  Curious about biological foundation models
 
 ## 📫 Connect with Me  
 🌍 [Website](https://martina-occhetta.github.io) | 
