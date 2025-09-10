@@ -2,7 +2,7 @@
 
 🔬  **PhD Researcher in AI for Drug Discovery** @ Queen Mary University of London & Recursion  
 
-🌱 I’m continually learning new technologies, frameworks, and best practices.
+🌱 I’m continually learning new technologies, frameworks, and best practices
 
 🔍  Specializing in graph neural networks, network biology, and multi-omic data integration 
 
