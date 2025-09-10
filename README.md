@@ -6,9 +6,7 @@
 
 🔍  Specializing in graph neural networks, network biology, and multi-omic data integration 
 
-📖  Passionate about target identification, perturbation response prediction
-
-🔭  Curious about biological foundation models
+📖  Target identification, perturbation response prediction, biological foundation models
 
 ## 📫 Connect with Me  
 🔗  [LinkedIn](https://www.linkedin.com/in/martina-occhetta) |
